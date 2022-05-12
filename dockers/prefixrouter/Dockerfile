@@ -1,3 +1,3 @@
-FROM nginx
+FROM nginx:1.21
 COPY prefixrouter /docker-entrypoint.sh
 
