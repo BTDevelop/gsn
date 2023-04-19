@@ -18,7 +18,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "^4.2.0"
+    "@openzeppelin/contracts": "^4.8.3"
   },
   "devDependencies": {
     "solhint": "^3.3.2"
