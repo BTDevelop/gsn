@@ -43,7 +43,7 @@
     "ethereumjs-util": "^7.1.0",
     "moment": "^2.29.1",
     "terminal-link": "^2.1.1",
-    "web3-provider-engine": "14.1.0",
+    "web3-provider-engine": "15.0.0",
     "winston": "^3.3.3"
   },
   "devDependencies": {
