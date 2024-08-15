@@ -27,17 +27,17 @@
     "axios": "^0.21.1",
     "bn.js": "^5.2.0",
     "chalk": "^4.1.0",
-    "eth-sig-util": "2.5.2",
+    "eth-sig-util": "3.0.1",
     "ethereumjs-util": "^7.1.0",
     "ethval": "^2.1.1",
     "ow": "^0.17.0",
     "rlp": "^2.2.6",
     "semver": "^7.3.2",
-    "web3-core": "1.6.1",
+    "web3-core": "4.0.1",
     "web3-core-helpers": "1.6.1",
-    "web3-eth": "1.6.1",
-    "web3-eth-abi": "1.6.1",
-    "web3-eth-contract": "1.6.1",
+    "web3-eth": "4.0.1",
+    "web3-eth-abi": "4.1.3",
+    "web3-eth-contract": "4.0.1",
     "web3-utils": "1.6.1"
   }
 }
