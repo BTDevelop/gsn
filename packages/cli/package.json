@@ -22,7 +22,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@ethereumjs/tx": "^3.2.0",
+    "@ethereumjs/tx": "^4.0.0",
     "@opengsn/common": "^2.2.4",
     "@opengsn/provider": "^2.2.4",
     "@opengsn/relay": "^2.2.4",
@@ -44,7 +44,7 @@
     "moment": "^2.29.1",
     "terminal-link": "^2.1.1",
     "web3-provider-engine": "14.1.0",
-    "winston": "^3.3.3"
+    "winston": "^3.3.4"
   },
   "devDependencies": {
     "web3-core": "1.6.1",
