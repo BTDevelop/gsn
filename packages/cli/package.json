@@ -22,11 +22,11 @@
     "access": "public"
   },
   "dependencies": {
-    "@ethereumjs/tx": "^3.2.0",
+    "@ethereumjs/tx": "^4.0.0",
     "@opengsn/common": "^2.2.4",
     "@opengsn/provider": "^2.2.4",
     "@opengsn/relay": "^2.2.4",
-    "@truffle/hdwallet-provider": "1.0.34",
+    "@truffle/hdwallet-provider": "2.1.15",
     "@types/asciichart": "^1.5.4",
     "@types/clear": "^0.1.1",
     "@types/cli-table": "^0.3.0",
@@ -43,7 +43,7 @@
     "ethereumjs-util": "^7.1.0",
     "moment": "^2.29.1",
     "terminal-link": "^2.1.1",
-    "web3-provider-engine": "14.1.0",
+    "web3-provider-engine": "16.0.8",
     "winston": "^3.3.3"
   },
   "devDependencies": {
