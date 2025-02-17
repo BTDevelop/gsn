@@ -17,7 +17,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@ethereumjs/tx": "^3.2.0",
+    "@ethereumjs/tx": "^4.0.0",
     "@opengsn/common": "^2.2.4",
     "@types/cors": "^2.8.7",
     "@types/express": "^4.17.8",
